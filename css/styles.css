@@ -85,3 +85,9 @@ fieldset{
   background-color:#2994DA;
   text-align: center;
 }
+
+.panel-body {
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
